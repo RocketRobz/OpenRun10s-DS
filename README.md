@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/DS-Homebrew/10SecondRun-DS/blob/master/resources/DSiWareOnDS-title.png"><br>
+ <img src="https://github.com/DS-Homebrew/10SecondRun-DS/raw/main/resources/DSiWareOnDS-title.png"><br>
 </p>
 
 Part of the DSiWare on DS series, this is a work-in-progress homebrew recreation of the DSiWare title, "10 Second Run".
