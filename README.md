@@ -2,7 +2,7 @@
  <img src="https://github.com/DS-Homebrew/10SecondRun-DS/raw/main/resources/DSiWareOnDS-title.png"><br>
 </p>
 
-Part of the DSiWare on DS series, this is a work-in-progress homebrew recreation of the DSiWare title, "10 Second Run".
+A work-in-progress open-source homebrew recreation of the DSiWare title, "10 Second Run".
 
 It can be played on all DS family consoles.
 
